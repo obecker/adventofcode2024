@@ -1,3 +1,5 @@
+// https://adventofcode.com/2024/day/25
+
 fun main() {
     val input = fileReader("day25/sample.txt").readLines()
 
